@@ -24,4 +24,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-> **Note:** This is an academic/learning project. The forecasts are for demonstration purposes and should not be considered financial advice.
